@@ -22,3 +22,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mansa0528&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mansa0528&langs_count=5&theme=tokyonight)]()
