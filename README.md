@@ -13,8 +13,8 @@
 
 <h2 align="center">STATS</h2>
 
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mansa0528&count_private=true&theme=react&showicons=true)<br>
-  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansa0528&layout=compact&langs_count=10&theme=react)
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mansa0528&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mansa0528&langs_count=5&theme=tokyonight)]()
 
 <h2 align="center">REACH ME ON</h2>
 <div id="badges" align="center">
