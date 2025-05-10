@@ -6,10 +6,6 @@
   <h2>ABOUT ME</h2>
 </div>
 
-- 🔭 Looking forward to learn new technologies.
-- 🎓 Computer Science student at VMEG.
-- 💼 Intern at EY India.
-- 💻 Focusing on Fullstack | Cyber Security.
 
 <h2 align="center">STATS</h2>
 
@@ -20,9 +16,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mansa0528/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/manasaakula_?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   <a href="https://twitter.com/mansa0528">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
